@@ -1,0 +1,4 @@
+Sean Leeka
+2006/2007
+A java window that simulates a pattern called The Game of Life.
+I secretly wrote this in high school AP Comp Sci A, 11th grade, while bored and unchallenged by current assignments.
